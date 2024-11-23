@@ -1,0 +1,11 @@
+python-dotenv
+streamlit
+setuptools
+pillow
+python-dotenv
+streamlit
+google-generativeai
+pyttsx3
+SpeechRecognition
+PyAudio
+-e .

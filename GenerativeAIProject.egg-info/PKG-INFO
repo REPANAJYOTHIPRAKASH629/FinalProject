@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Version: 0.0.1
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: setuptools
+Requires-Dist: pillow
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: google-generativeai
+Requires-Dist: pyttsx3
+Requires-Dist: SpeechRecognition
+Requires-Dist: PyAudio
